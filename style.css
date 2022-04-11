@@ -1,0 +1,22 @@
+#news {
+  display: flex;
+  width: 80%;
+  text-align: center;
+  margin: auto;
+}
+
+img{
+  width: 100%;
+}
+
+.new {
+  margin: 10px 15px;
+  color:rgb(0, 0, 0);
+  text-align: center;
+  width: 30%;
+  overflow: hidden;
+}
+
+.email{
+  color: red;
+}
